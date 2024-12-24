@@ -1,4 +1,4 @@
-# Notepad 1.0
+# Notepad 1.0　English
 
 This is a simple Notepad application built using Python's Tkinter library.
 
@@ -16,11 +16,10 @@ This is a simple Notepad application built using Python's Tkinter library.
 
 
 ## License
-This project is licensed under the MIT License.
-# Notepad 1.0
-
-## 概要 (Overview)
-Notepad 1.0は、Pythonのtkinterライブラリを使用して構築されたシンプルで使いやすいメモ帳アプリケーションです。ユーザーは簡単にテキストを作成、編集、保存できます。
+This project is licensed under the free License.
+If you'd like, you can contribute to improving Notepad! If you want to help with bug fixes or adding new features, please feel free to submit a pull request on the [GitHub repository](https://github.com/sirobosi888/Simple-Notepad). We look forward to your contributions!
+# Notepad 1.0 Japanese
+Notepad 1.0は、Pythonのtkinterライブラリを使用して構築されたシンプルなメモ帳アプリケーションです。ユーザーは簡単にテキストを作成、編集、保存できます。
 
 ## 主な機能 (Main Features)
 
